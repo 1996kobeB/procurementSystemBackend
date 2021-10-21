@@ -1,0 +1,8 @@
+{
+  "name": "procurementSystemBackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lsy1996123/procurementSystemBackend.git",
+  "author": "linshuyi <lsy19961996@sina.cn>",
+  "license": "MIT"
+}
